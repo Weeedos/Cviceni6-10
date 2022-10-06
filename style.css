@@ -11,9 +11,13 @@ h1{
     justify-content: center;
     flex-wrap: nowrap;
     background-color: seagreen;
+    padding: 1em;
+    gap: 1em;
 }
 
 .grid-container{
     display: grid;
-    
+    background-color: slateblue;
+    padding: 1em;
+    gap: 1em;
 }
