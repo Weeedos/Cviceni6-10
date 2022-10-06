@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    background-color: seagreen;
+}
+
+.grid-container{
+    display: grid;
+    
+}
